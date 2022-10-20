@@ -1,0 +1,1 @@
+14-Abhijeet N. Hash-based Message Authentication Code (HMAC) is a message authentication code that uses a cryptographic key in conjunction with a hash function. Hash-based message authentication code (HMAC) provides the server and the client each with a private key that is known only to that specific server and that specific client.
